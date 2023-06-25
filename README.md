@@ -1,2 +1,9 @@
-# rl-algorithms
-Coursework featuring MDP, vanilla Q-Learning, DQN, DDPG, IQL and JAL algorithms
+# To test install using:
+```console
+    $ cd rl2022
+    $ pip install -e .
+```
+and run tests:
+```console
+    $ pytest
+```
